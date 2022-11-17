@@ -30,11 +30,21 @@
 
 ```bash
 $ npm install
+
+# Tener Nest CLI instalado
+$ npm i -g @nestjs/cli
+
+# Levantar base de datos (mongo) 
+$ docker-compose up -d
 ```
+## Stack utilizado
+ * MongoDB
+ * Nest
 
 ## Running the app
 
 ```bash
+
 # development
 $ npm run start
 
