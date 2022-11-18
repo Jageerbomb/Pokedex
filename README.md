@@ -41,6 +41,8 @@ $ docker-compose up -d
  * MongoDB
  * Nest
 
+----
+
 ## Running the app
 
 ```bash
